@@ -1,0 +1,25 @@
+public class aleatorios{
+	public void metodo(){
+		
+		generar objg= new generar();
+		for (int minutos=0; minutos=<5;minutos++){
+		    for (int segundos=0; segundos<60; segundos++){
+			            objg.numero();
+				        tiempo();
+		            }
+		        }
+	        }	
+		public void tiempo (){	
+			try{
+			Thread.sleep(1000);
+				
+			}catch(InterruptedException e){}
+		}	
+			
+			
+			
+			
+			
+			
+
+			}
